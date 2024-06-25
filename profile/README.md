@@ -15,5 +15,5 @@
 
   Explore our repositories to find projects and resources that can give you the digital push you need. Join our community of tech enthusiasts and let's make technology work for you!
 
-  <img src="https://global.discourse-cdn.com/business6/uploads/codeorgforum/original/2X/5/5850a08813648555f34c29bea7b6d1de15f01655.gif" alt="Cool Tech GIF" m-width="600" m-height="400">
+  <img src="https://global.discourse-cdn.com/business6/uploads/codeorgforum/original/2X/5/5850a08813648555f34c29bea7b6d1de15f01655.gif" alt="Cool Tech GIF" m-width="300" m-height="200">
 </div>
