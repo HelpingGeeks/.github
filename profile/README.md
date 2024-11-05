@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/169800999?s=200&v=4" alt="HelpingGeeks Logo" width="150" height="150">
 
-  ### *All you need is a digital push*
+  ### *The Place where Business meets strategy*
   <br/>
 
   # Welcome to HelpingGeeks!
